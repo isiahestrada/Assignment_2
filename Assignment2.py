@@ -2,7 +2,7 @@
 
 class Dog:
     # Class attribute
-    species = "Canis familiaris"
+    species = "Dog"
 
     # Constructor method (initializes object)
     def __init__(self, name, age):

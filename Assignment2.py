@@ -1,4 +1,3 @@
-# dog.py
 
 class Dog:
     # Class attribute
